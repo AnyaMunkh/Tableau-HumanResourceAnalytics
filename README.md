@@ -8,5 +8,5 @@
 Visit the project on my Tableau public account for more interactiveness. 
 https://public.tableau.com/app/profile/anya5733/viz/HR_Attrition_16868321830520/FinalDashboard
 
-For the original Database reference follow the link below.   
+For the original Database reference, please follow the link below.   
 https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit#gid=2089618187
