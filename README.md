@@ -1,6 +1,6 @@
-# Tableau-HRAttritionAnalyticsDashboard
+# Tableau-AttritionAnalyticsDashboard
 
-#### This is a visualization project with Tableau on Human Resource Analytics Dashboard
+#### This is a visualization project with Tableau on Human Resource Attrition Analytics Dashboard
 
 ##### ●	In this project with Tableau we will explore the insight on Attrition trend in the company.
 ##### ●	Different kind of calculation field on for the better visualization were used in this project's better visualization.
