@@ -1,4 +1,4 @@
-# Tableau-HumanResourceAnalytics
+# Tableau-HRAttritionAnalyticsDashboard
 
 #### This is a visualization project with Tableau on Human Resource Analytics Dashboard
 
