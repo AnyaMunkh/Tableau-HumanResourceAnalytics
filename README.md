@@ -1,6 +1,6 @@
 # Tableau-AttritionAnalyticsDashboard
 
-#### This is a visualization project with Tableau on Human Resource Attrition Analytics Dashboard
+#### This is a visualization project with Tableau on Human Resource Attrition Analytics 
 
 ##### ●	In this Tableau dashboard visualization, insights and key findings from Human resource attrition data are presented. 
 ##### ●	You will see some contextual reveal of the data,which is highest attrition rate occurs among male employees in the age of 25-34, in the R&D department 
